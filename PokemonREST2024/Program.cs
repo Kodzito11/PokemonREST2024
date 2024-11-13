@@ -1,4 +1,4 @@
-using PokemonLib;
+using PokemonREST2024.PokemonLIb;
 
 var builder = WebApplication.CreateBuilder(args);
 
