@@ -10,10 +10,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.8.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="PokemonLib">
-      <HintPath>..\..\..\Desktop\PokemonLib-master\PokemonLib\bin\Debug\net8.0\PokemonLib.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
